@@ -1,0 +1,11 @@
+{
+  "name": "Remix ASTROCARE — Astronaut Proactive Health Monitoring",
+  "description": "Mission-critical proactive health monitoring web application for astronauts featuring an interactive anatomical body model, live telemetry, trend analytics, BioAI risk assessment, daily wellness missions, and crew medical profile.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
